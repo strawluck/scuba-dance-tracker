@@ -4,7 +4,7 @@ A Python script that watches you through your webcam. Cover your mouth with one 
 
 ---
 
-## How it works (simple version)
+## How it works
 
 About 30 times per second, the script:
 
@@ -25,7 +25,7 @@ The code is split into three files, each with one job:
 
 ---
 
-## Technologies used (in plain English)
+## Technologies used
 
 - **Python** — the language everything is written in.
 - **OpenCV (`opencv-python`)** — a computer vision library. It reads frames from your webcam and draws the popup window that plays the video.
